@@ -12,7 +12,7 @@ pip install youtube-data
 #### Get Videos Data 
 
 ```python
-from py_youtube import Data
+from youtube_data import Data
 data = Data("https://youtu.be/HhHzCfrqsoE").data()
 print(data)
 ```
