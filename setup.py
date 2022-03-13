@@ -20,7 +20,7 @@ setuptools.setup(
     long_description_content_type = "text/markdown",
     description="Python library Get YouTube Video Data",
     license="MIT",
-    url="https://github.com/pydownload/pydata",
+    url="https://github.com/MrAbhiX/pydata",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
