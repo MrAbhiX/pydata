@@ -195,7 +195,7 @@ print(videos)
 ## Search Limits Video 
 ```python 
 from youtube_data import Search ,Data 
-videos = Search("ln technical", limit = 3).videos()
+videos = Search("ABHI CREATION", limit = 3).videos()
 print(videos)
 ```
 <details>
