@@ -211,7 +211,7 @@ print(videos)
       "https://i.ytimg.com/vi/7BX0paTfllI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLCxWsEz6p7P9KVh72YQ-qK_m1bWKg",
       "https://i.ytimg.com/vi/7BX0paTfllI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=\\u0026rs=AOn4CLDgD8dPi-IO2WZ9RXbdRMV7eS-Afg"
     ],
-    "simple_data": "How To Create Advance Google Translater Telegram Bot by Ln Technical 2 weeks ago 9 minutes, 34 seconds 311 views"
+    "simple_data": "How To Create Advance Google Translater Telegram Bot by ABHI CREATION 2 weeks ago 9 minutes, 34 seconds 311 views"
   },
   {
     "id": "MzAuQ7DBJtw",
@@ -220,7 +220,7 @@ print(videos)
       "https://i.ytimg.com/vi/MzAuQ7DBJtw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLAltEKI5zBWmhxJwk0egXWp0iN9fQ",
       "https://i.ytimg.com/vi/MzAuQ7DBJtw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=\\u0026rs=AOn4CLBjbeyE6dgtTd5wrfs9PSD7t2Tt8g"
     ],
-    "simple_data": "python India flag \ud83c\uddee\ud83c\uddf3 by Ln Technical 2 weeks ago 30 seconds 80 views"
+    "simple_data": "python India flag \ud83c\uddee\ud83c\uddf3 by ABHI CREATION 2 weeks ago 30 seconds 80 views"
   }
 ]
 ```
